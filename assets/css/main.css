@@ -1,0 +1,41 @@
+#portraits{
+  background-image: image();
+}
+a{
+  color:inherit;
+}
+a.nav-link:hover{
+  color: #f7ce3c;
+}
+menu{
+  background-color: #c5c1c0;
+}
+
+.fdb-block{
+  background-color:#c5c1c0;
+  color:#FFF;
+}
+.btn{
+  background-color: #f7ce3c;
+}
+.btn:hover {
+  background-color: transparent;
+  color: #528bff; }
+
+.fdb-block{
+  background-color: #1a2930;
+}
+.fdb-block .fdb-box{
+  background-color: #FFFFFF;
+}
+.projects{
+background-color: #0a1612;
+}
+
+footer.bg-dark {
+  background: #0a1612 ;
+  color: #f2f2f2; }
+  footer.bg-dark a {
+    color: #f2f2f2; }
+footer a {
+  color: #444444; }
